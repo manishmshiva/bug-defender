@@ -1,0 +1,24 @@
+{
+  "name": "bug-defender",
+  "version": "1.0.0",
+  "description": "An arcade game using Phaser.js",
+  "main": "script.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishmshiva/bug-defender.git"
+  },
+  "keywords": [
+    "phaser",
+    "game",
+    "arcade"
+  ],
+  "author": "Manish Shivanandhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manishmshiva/bug-defender/issues"
+  },
+  "homepage": "https://github.com/manishmshiva/bug-defender#readme"
+}
